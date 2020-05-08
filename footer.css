@@ -1,0 +1,87 @@
+.footer{
+    background-color: black;
+    color:gray;
+    padding: 80px 25px 80px 25px;
+}
+
+
+.footer1{
+    color: white;
+    margin-bottom: 40px;
+}
+
+
+.footer2{
+    color: white;
+}
+
+
+.footer3{
+    font-size: 15pt;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+.footer4{
+    font-size: 15pt;
+    
+}
+
+
+.phone{
+    width: 23px ;
+    height: 20px;
+    margin: 3px;
+
+}
+
+
+.world{
+    width: 23px ;
+    height: 20px;
+    margin: 3px;
+
+}
+
+
+.email{
+    width: 23px ;
+    height: 20px;
+    margin: 3px;
+
+}
+
+
+
+.fb2{
+    margin-right: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+
+.twitter2{
+    margin-right: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+
+.insta2{
+    margin-right: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+
+.youtube2{
+    margin-right: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+.foot1{
+    display: flex;
+    flex-wrap: wrap;
+}

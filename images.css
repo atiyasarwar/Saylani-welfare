@@ -1,0 +1,321 @@
+.pictures{
+    max-width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    height: auto;
+    cursor: pointer;
+}
+
+
+.services{
+    text-align: center;
+}
+
+
+
+.services1{
+    color:royalblue ;
+    display: inline-block;
+    font-size: 36pt;
+}
+
+
+
+.services2{
+    color: green;
+    display: inline-block;
+    font-size: 36pt;
+}
+
+
+.services3{
+    box-shadow: 5px 5px 3px gray;
+    color: royalblue;
+    text-shadow: 1px 1px 1px blue;
+    padding: 20px;
+    margin: 50px;
+    background-color:white;
+    max-width: 30%;
+    max-height: 10%;
+    display: inline-block;
+    
+}
+
+
+.services4{
+    box-shadow: 5px 5px 3px gray;
+    color: royalblue;
+    text-shadow: 1px 1px 1px blue;
+    padding: 20px;
+    margin: 50px;
+    background-color:white;
+    max-width: 30%;
+    max-height: 10%;
+    display: inline-block;
+    
+}
+
+
+.services5{
+    box-shadow: 5px 5px 3px gray;
+    color: royalblue;
+    text-shadow: 1px 1px 1px blue;
+    padding: 20px;
+    margin: 50px;
+    background-color:white;
+    max-width: 30%;
+    max-height: 10%;
+    display: inline-block;
+    
+}
+
+
+
+.services6{
+    box-shadow: 5px 5px 3px gray;
+    color: royalblue;
+    text-shadow: 1px 1px 1px blue;
+    padding: 20px;
+    margin: 50px;
+    background-color:white;
+    max-width: 30%;
+    max-height: 10%;
+    display: inline-block;
+    
+}
+
+
+
+.services7{
+    box-shadow: 5px 5px 3px gray;
+    color: royalblue;
+    text-shadow: 1px 1px 1px blue;
+    padding: 20px;
+    margin: 50px;
+    background-color:white;
+    max-width: 30%;
+    max-height: 10%;
+    display: inline-block;
+    
+}
+
+
+
+.services8{
+    box-shadow: 5px 5px 3px gray;
+    color: royalblue;
+    text-shadow: 1px 1px 1px blue;
+    padding: 20px;
+    margin: 50px;
+    background-color:white;
+    max-width: 30%;
+    max-height: 10%;
+    display: inline-block;
+    
+}
+
+
+.monthly-news{
+    background-color: royalblue;  
+    font-weight: bolder;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+.m1{
+    display: inline-block;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    
+}
+
+
+.m2{
+    font-size: 40pt;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+.m3{
+    color: white;
+    font-size: 18pt;
+    text-align: center;
+}
+
+.m4{
+    color: darkgreen;
+    font-size: 20pt;
+    text-align: center;
+}
+
+.food1{
+    width: 50px;
+    height: 50px;
+}
+
+
+.family1{
+    width: 50px;
+    height: 50px;
+}
+
+
+.medical1{
+    width: 50px;
+    height: 50px;
+}
+
+
+.scholarship1{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+
+.food{
+    width:20% ;
+    height: 20%;
+}
+
+
+
+.family{
+    width:20% ;
+    height: 20%;
+
+}
+
+
+
+.medical{
+    width:20% ;
+    height: 20%;
+
+
+}
+
+
+
+.scholarship{
+    width:20% ;
+    height: 20%;
+
+}
+
+
+.sadqah{
+    width:20% ;
+    height: 20%;
+}
+
+
+
+.ro-plant{
+    width:20% ;
+    height: 20%;
+}
+
+
+
+
+.education{
+    width:20% ;
+    height: 20%;
+}
+
+
+
+
+.hepatitis{
+    width:50px ;
+    height: 45px;
+}
+
+.pro-heading{
+    display: inline-block;
+    margin-left:55px ;
+    font-size: 15pt;
+}
+
+
+.house{
+    width:50px ;
+    height: 45px;
+}
+
+
+
+.laptop{
+    width:50px ;
+    height: 45px;
+}
+
+
+
+.tharparkar{
+    width:50px ;
+    height: 45px;
+}
+
+
+
+.phone{
+    width:3% ;
+    height: 3%;
+}
+
+
+
+
+.world{
+    width:4% ;
+    height: 3%;
+}
+
+
+
+.email{
+    width:5% ;
+    height: 5%;
+}
+
+
+
+.fb2{
+    width: 5%;
+    height: 5%;
+}
+
+
+
+.twitter2{
+    width: 5%;
+    height: 5%;
+}
+
+
+
+.insta2{
+    width: 5%;
+    height: 5%;
+}
+
+
+
+
+.youtube2{
+    width: 5%;
+    height: 5%;
+}
+
+

@@ -1,0 +1,135 @@
+.dropdown{
+    height: auto ;
+    padding: 0;
+    margin: 0 auto;
+    background: white ;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;   
+}
+
+
+@media screen and (max-width:500px){
+    width: 100%;
+    height: auto ;
+}
+
+.dropdown ul{
+    display:inline-flex ;
+    list-style: none;
+    color:black;
+}
+
+
+.dropdown ul li{
+    width: 120px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.dropdown ul li a{
+    text-decoration:none ;
+    color: black;
+    border: none;
+    outline: none;
+    font: inherit;
+    margin: 0;
+}
+
+
+.home, .dropdown ul li:hover{
+    background-color:royalblue;
+    border-radius: 8px;
+}
+
+
+.dropdown .fa{
+    margin-right: 5px;
+} 
+
+
+.sub-about{
+    display: none;
+    position: absolute;
+}
+
+
+.dropdown ul li:hover .sub-about{
+    display: block;
+    position: absolute;
+    margin-top: 15px;
+    background: royalblue ;
+    margin-left: -13px;
+}
+
+.dropdown ul li:hover .sub-about ul{
+    display: block;
+    margin: 7px;
+}
+
+
+.dropdown ul li:hover .sub-about ul li{
+    width: 107px;
+    padding: 10px;
+    border-bottom:1px dotted black ;
+    background: transparent;
+    border-radius: 0px;
+    text-align: left;
+}
+
+.dropdown ul li:hover .sub-about ul li:last-child{
+    border-bottom: none;
+}
+
+.dropdown ul li:hover .sub-about ul li a:hover{
+    color: white;
+    float: none;
+    display: block;
+    text-align: left;
+    text-decoration: none;
+}
+
+.dropdown ul li a:after{
+    content: "";
+    clear: both;
+}
+
+.fa-angle-right{
+    float: right;
+}
+
+
+.subs{
+    display: none;
+}
+
+
+.sub-menu:hover .subs{
+    position: absolute;
+    display: block;
+    margin-top: -40px;
+    margin-left: 140px;
+    background: royalblue;
+}  
+
+.saylani-logo{
+    width: 250px;
+    height: 80px;
+    float: left;
+    padding-left: 35px;
+}
+
+
+.home{
+    border-radius: 30px;
+}
+
+.radius{
+    border-radius: 30px;
+}
+
+
